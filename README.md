@@ -1,4 +1,4 @@
-# Docker-Oriented REST API Template
+# Docker-Oriented Auth0 Testing Project
 
-This repository is a template to kickstart building a docker-oriented REST API service.
-The favour over docker-oriented services is due to simple, yet rapid deployment and integration into existing docker cluster system.
+This project is a testing (or example) project for setting up [Auth0 for Machine to Machine Authentication](https://auth0.com/blog/using-m2m-authorization/).
+It respond error json on unauthorized request while return 'Hello world' for authorized request.
